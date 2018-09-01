@@ -197,6 +197,5 @@ int main()
     //sum of child nodes value of a node
     cout<<sum(root);
     //merge two nodes
-    mergenodes(root)
 
 }
